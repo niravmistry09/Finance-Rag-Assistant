@@ -1,0 +1,17 @@
+[
+  {
+    "source_pdf": "amazon_2023.pdf",
+    "question": "What are the key financial performance metrics for Amazon in 2023, including total revenue growth and segment-wise revenue breakdown?",
+    "answer": "In 2023, Amazon's total revenue grew 12% year-over-year (YoY) from $514B to $575B[cite: 8]. By segment, North America revenue increased 12% YoY from $316B to $353B, International revenue grew 11% YoY from $118B to $131B, and AWS revenue increased 13% YoY from $80B to $91B[cite: 9]. Additionally, its operating income dramatically improved by 201% YoY, rising from $12.2B to $36.9B[cite: 10, 11]."
+  },
+  {
+    "source_pdf": "apple_2023.pdf",
+    "question": "How does Apple structure its business reportable segments, and what unique market dynamics or regions do they include?",
+    "answer": "Apple manages its operations primarily on a geographic basis across five reportable segments: 1) Americas (North and South America), 2) Europe (European countries, India, the Middle East, and Africa), 3) Greater China (China mainland, Hong Kong, and Taiwan), 4) Japan, and 5) Rest of Asia Pacific. Each segment is managed separately to best align with localized customer location, distribution networks, and specific market dynamics."
+  },
+  {
+    "source_pdf": "nvidia_2023.pdf",
+    "question": "How is NVIDIA using generative AI in industries like healthcare and automotive?",
+    "answer": "NVIDIA uses generative AI through platforms such as BioNeMo, Omniverse, and DRIVE. In healthcare, generative AI helps accelerate drug discovery and biological research. In automotive industries, NVIDIA enables autonomous driving, digital twins, and AI-powered simulation for vehicle development and manufacturing."
+  }
+]
